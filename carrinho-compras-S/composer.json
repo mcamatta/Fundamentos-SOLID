@@ -1,5 +1,5 @@
 {
-    "name": "mcamatta/app_carrinho_compras",
+    "name": "mcamatta/carrinho-compras",
     "type": "project",
     "autoload": {
         "psr-4": {

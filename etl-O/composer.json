@@ -1,5 +1,5 @@
 {
-    "name": "mcamatta/app_etl",
+    "name": "mcamatta/etl",
     "type": "project",
     "autoload": {
         "psr-4": {
